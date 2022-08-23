@@ -826,7 +826,11 @@ h3 {
 }
 
 .slider_bg_4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/banner/parque.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Instragram/bebida.jpg");
+}
+
+.slider_bg_5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/Instragram/campanario.jpg");
 }
 
 .slider_area .single_slider {
