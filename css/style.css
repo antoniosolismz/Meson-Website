@@ -1129,7 +1129,7 @@ iframe {
   color: #4D4D4D;
   line-height: 28px;
   position: relative;
-  z-index: 9;
+  z-index: 8;
   padding-left: 23px;
 }
 .offers_area .single_offers ul li::before {
