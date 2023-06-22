@@ -1,5 +1,39 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap');
 
+//Color Palette
+
+/* SCSS HEX */
+$black: #000000ff;
+$cerise: #fd0063ff;
+$snow: #fdf7faff;
+$off-red-rgb: #f90000ff;
+$chamoisee: #8f715aff;
+
+/* SCSS HSL */
+$black: hsla(0, 0%, 0%, 1);
+$cerise: hsla(337, 100%, 50%, 1);
+$snow: hsla(330, 60%, 98%, 1);
+$off-red-rgb: hsla(0, 100%, 49%, 1);
+$chamoisee: hsla(26, 23%, 46%, 1);
+
+/* SCSS RGB */
+$black: rgba(0, 0, 0, 1);
+$cerise: rgba(253, 0, 99, 1);
+$snow: rgba(253, 247, 250, 1);
+$off-red-rgb: rgba(249, 0, 0, 1);
+$chamoisee: rgba(143, 113, 90, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-right: linear-gradient(90deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-bottom: linear-gradient(180deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-left: linear-gradient(270deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-top-right: linear-gradient(45deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-bottom-right: linear-gradient(135deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-top-left: linear-gradient(225deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-bottom-left: linear-gradient(315deg, #000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+$gradient-radial: radial-gradient(#000000ff, #fd0063ff, #fdf7faff, #f90000ff, #8f715aff);
+
 // fonts
 $font1:  'Raleway', sans-serif;
 $font2:  'Raleway', sans-serif;
