@@ -926,6 +926,12 @@ h3 {
     font-size: 33px;
     letter-spacing: 3px;
   }
+  .slider_bg_1, .slider_bg_2, .slider_bg_3, .slider_bg_4, .slider_bg_6 {
+    background-position: center;
+  }
+  .slider_bg_5 {
+    background-position: right;
+  }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .slider_area .single_slider .slider_text h3 {
