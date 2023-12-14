@@ -884,27 +884,73 @@ h3 {
 }
 
 .slider_bg_1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Terraza/Terraza_upscaled.JPEG");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/banner/banner_meson.png");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_bg_2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/room9.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/Hab 6.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_bg_3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/vanity.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/Hab 5 21.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_bg_4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/Hab 5 2.JPEG");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Alimentos/Fruta y café.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_bg_5 {
   background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Vistas y exteriores/campanario_plaza.jpg");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_bg_6 {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Vistas y exteriores/pasillo_san_francisco.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Habitaciones/Hab 5 2.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
+}
+
+.slider_bg_7 {
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Terraza/Terraza_upscaled.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
+}
+
+.slider_bg_8 {
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Jardín/Jardín 2.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
+}
+
+.slider_bg_9 {
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Restaurant/Comedor 2.jpg");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
+}
+
+.slider_bg_10 {
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("../img/Pasillos/Escaleras 2.JPEG");
+  background-position: center; /* Center the background image */
+  background-size: cover; /* Cover the entire container */
+  background-repeat: no-repeat;
 }
 
 .slider_area .single_slider {
